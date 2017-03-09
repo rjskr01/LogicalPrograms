@@ -1,6 +1,6 @@
 # LogicalPrograms
 
-Thus project contains logical thinking programmes created using scala and c# programming languages.
+This project contains logical thinking programmes created using scala and c# programming languages.
 
 Also shared the performance benchmarks of those programming languages.
 
