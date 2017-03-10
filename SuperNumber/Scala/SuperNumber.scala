@@ -41,7 +41,8 @@ object SuperNumber
 	def isSuperNumber(superNumbers :Array[Int]) : Boolean  =	{
 		var count:Int=0
 		val digitCount=superNumbers.length
-		(0 until digitCount).foreach((index)=>{
+		for(index<-0 until digitCount)
+		{
 			count=0
 			superNumbers.foreach((digit)=>{
 				if (digit == index)
@@ -50,7 +51,7 @@ object SuperNumber
 			
 			if(count!=superNumbers(index))
 				return false
-		})
+		}
 		return true
 	}
 	

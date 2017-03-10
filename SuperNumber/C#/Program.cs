@@ -26,7 +26,7 @@ namespace SuperNumber
                 }
             }
 
-            Console.WriteLine(watch.Elapsed);
+            Console.WriteLine("Elapsed Time (Seconds):"+watch.ElapsedMilliseconds/1000);
             Console.ReadLine();
         }
         public static void incrementArray(int[] possibilities, int digitIndex)
