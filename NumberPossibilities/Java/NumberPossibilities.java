@@ -4,7 +4,8 @@ public class NumberPossibilities
     {
         long startTime = System.currentTimeMillis();
         int[] superNumbers = new int[9];
-        for (int j = 2; j <= 9; j++)
+        int j=9;
+       // for (int j = 2; j <= 9; j++)
         {
             superNumbers = new int[j];
             int possibilityCount = (int)Math.pow(j, j);

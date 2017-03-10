@@ -10,6 +10,7 @@ namespace NumberPossiblities
         {
             Stopwatch watch = Stopwatch.StartNew();
             watch.Start();
+
             var superNumbers = new int[9];
             int digitCount = 9;
             superNumbers = new int[digitCount];
