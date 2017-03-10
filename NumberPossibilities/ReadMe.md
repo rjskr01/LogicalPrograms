@@ -17,7 +17,7 @@ Consider another example with number 3
 
 **Note:** Currently this program support to generate 9 digits.
 
-** Code Added for the following languages:**
+**Code Added for the following languages:**
 * CSharp
 * Java
 * Scala
