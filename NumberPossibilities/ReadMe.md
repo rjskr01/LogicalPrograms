@@ -1,7 +1,8 @@
 # Number Possibilities
 
 This programme generates the possibilities of given numbers. 
-For instance if number is 2 
+
+For instance if number is 2 then
 00 01
 10 11
 Consider another example with number 3
