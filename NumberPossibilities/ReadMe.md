@@ -31,7 +31,18 @@ Consider another example with number 3 then below 3 possiblities are generated.
 **Note:** Currently this program support to generate 9 digits.
 
 **Code Added for the following languages:**
-* CSharp
-* Java
-* Scala
-* Go
+* CSharp - Version 4.6.1
+* Java - java version "1.8.0_101"
+* Scala - Scala code runner version 2.12.0
+* Go - go version go1.8 windows/amd64
+
+**Benchmark**
+
+This program executes the loops 9<sup>9</sup> times whith few logical checkings.
+
+| Language  |Time Taken #1  | Time Taken #2   | Avg |
+|-----------|---------------|-----------------|-----|
+|C#         |   2.85        |     2.61        | 2.73|
+|Java       |   2.00        |     1.00        | 1.50|
+|Scala      |   2.75        |     2.81        | 2.78|
+|Go         |   7.09        |     6.28        | 6.89|
