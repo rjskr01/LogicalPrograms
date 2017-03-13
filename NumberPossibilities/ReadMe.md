@@ -47,4 +47,4 @@ This program executes the loops 9<sup>9</sup> times whith few logical checkings.
 |Scala      |   2.75        |     2.81        | 2.78|
 |Go         |   7.09        |     6.28        | 6.89|
 
-** Note: If you have any concern on my code please feel free to change my code to get the best performance. **
+**Note: If you have any concern on my code please feel free to change my code to get the best performance.**
