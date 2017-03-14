@@ -43,7 +43,7 @@ This program executes the loops 9<sup>9</sup> times whith few logical checkings.
 | Language  |Time Taken #1 (sec)  | Time Taken #2 (sec)   | Avg |
 |-----------|---------------      |-----------------      |-----|
 |C#         |   2.85           |     2.61        | 2.73|
-|Java       |   2.00        |     1.00        | 1.50|
+|Java       |   1.85        |     1.85        | 1.85|
 |Scala      |   2.75        |     2.81        | 2.78|
 |Go         |   7.09        |     6.28        | 6.89|
 

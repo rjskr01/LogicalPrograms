@@ -2,7 +2,7 @@ public class SuperNumber
 {
     public static void main(String[] args)
     {
-        long startTime = System.currentTimeMillis();
+        double startTime = (double)System.currentTimeMillis();
         int[] superNumbers = new int[9];
         for (int j = 2; j <= 9; j++)
         {
@@ -19,8 +19,8 @@ public class SuperNumber
                 }
             }
         }
-        long stopTime = System.currentTimeMillis();
-        long elapsedTime = (stopTime - startTime)/1000;
+        double stopTime =(double) System.currentTimeMillis();
+        double elapsedTime = (stopTime - startTime)/1000;
         System.out.print("\nTime Taken(Seconds):"+elapsedTime);
     }
     public static void incrementArray(int[] possibilities, int digitIndex)
