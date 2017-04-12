@@ -9,6 +9,3 @@ To learn more about the logical and performance benchmarks check the specific lo
 **List of Available Programs**
 * Possibility Generator
 * Super Number generator
-
-Update the READ ME
-
